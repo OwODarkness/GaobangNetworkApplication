@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Project\C++project\GobangClient\GobangClient\Source.cpp(268,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GobangClient.vcxproj -> D:\Project\C++project\GobangClient\x64\Debug\GobangClient.exe

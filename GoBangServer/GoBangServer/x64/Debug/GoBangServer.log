@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(146,49): warning C4805: '&=': unsafe mix of type 'bool' and type 'const int' in operation
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(146,49): warning C4805: '&': unsafe mix of type 'bool' and type 'const int' in operation
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(279,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(298,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(309,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(366,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(384,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(404,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++project\GoBangServer\GoBangServer\Source.cpp(269,34): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  GoBangServer.vcxproj -> D:\Project\C++project\GoBangServer\x64\Debug\GoBangServer.exe
